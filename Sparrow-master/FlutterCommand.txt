@@ -1,0 +1,16 @@
+Run flutter:
+    flutter run;
+
+Check emulator:
+    flutter emulators;
+
+Run Emulator:
+    flutter emulators --launch <emulator name>;
+
+Clean project:
+    flutter clean;
+
+Check for flutter requirements: (it will tell you what your system needs if missing requirements)
+    flutter doctor
+
+
